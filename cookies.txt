@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bedpage.com	TRUE	/	FALSE	1999999999	sessions	ov2ekvcrkh716rhj7a1cp2c0uc3s7spk
+yourdomain.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
